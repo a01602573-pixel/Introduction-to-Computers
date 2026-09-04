@@ -21,3 +21,31 @@ Medium sized computers that comes between mainframes and microcomputers.They sup
 4.**Micro Computers:**<br>
 Small,affordable computers designed for single users.This includes laptops,tablets etc.<br>
 
+##3.History of computers:<br>
+The evolution of computers is generally divided into *five distinct generations.*<br>
+1.*First Generation(1940-1956):*<br>
+Based on *Vacuum tubes.*<br>
+2.*Second Generation(1956-1963):*<br>
+Introduced *Transistors.*<br>
+3.*Third Generation(1963-1971):*<br>
+Integrated *Integrated Circuits.*<br>
+4.*Fourth Generation(1971-present):*<br>
+Powered by *Microprocessors.*<br>
+5.*Fifth Generation(present- onwards):*<br>
+Developing *Artificial Intelligence.*<br>
+
+###Tools used:<br>
+- github<br>
+- Markdown<br>
+- Web browser<br>
+
+###Project Workflow:<br>
+- [x] Create a github repository<br>
+- [x] Create a student custom branch<br>
+- [ ] Commit 3 updates<br>
+- [ ] Merge and pull request.<br>
+
+###Task list:<br>
+- Create repository.<br>
+- Create a custom branch.<br>
+- Pull and merge into main file.<br>
